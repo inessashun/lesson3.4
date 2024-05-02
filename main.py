@@ -27,8 +27,3 @@ font = pygame.font.Font(None, 36)  # font for displaying score
 target_speed = 5  # speed of target movement
 
 
-running = True
-while running:
-    pass
-
-pygame.quit()
